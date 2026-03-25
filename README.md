@@ -93,4 +93,4 @@ python main.py --video clip.mp4 --stride 3 --output result.mp4
 Пути улучшения: Внедрение фильтра Калмана для трекинга или использование временного буфера (состояние меняется только после N кадров стабильного обнаружения).
 
 ## Проблемный кадр
-![Проблемный кадр](https://github.com/hullymully/pipline-dodo/badwork.png)
+![Проблемный кадр](https://github.com/HullyMully/pipline-dodo/blob/main/badwork.png)
